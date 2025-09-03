@@ -619,7 +619,7 @@
             <div class="about-content">
                 <div class="about-image">
                     <!-- Replace with your actual image -->
-                    <img src="https://placehold.co/400x500/2563eb/FFFFFF?text=Tahir+Mehdi" alt="Tahir Mehdi">
+                    <img src=""E:\WhatsApp Image 2025-09-03 at 6.04.08 AM.jpeg"" alt="Tahir Mehdi">
                 </div>
                 <div class="about-text">
                     <h3>Hello! I'm Tahir Mehdi</h3>
